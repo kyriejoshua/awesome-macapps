@@ -100,7 +100,8 @@ This is the best for me in MBP.
 
 ## Mac管理
 
-* [NTFS for Mac](http://www.ntfsformac.cn/) - mac 访问移动硬盘。
+* [NTFS for Mac](http://www.ntfsformac.cn/) - mac 访问移动硬盘。功能似乎强大，但只能试用七天。后续需要购买激活使用。
+* [Mounty](https://mounty.app/) - 重要的是免费。不常用，只在电脑需要清理，整理软件和文件的时候，非高频使用的适合免费版。
 * [clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。
 	* $ 34.95. setapp 内含。
 * [Setapp](https://setapp.com/) - 订阅一款软件，可免费使用多款软件。
