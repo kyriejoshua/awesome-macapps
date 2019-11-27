@@ -21,6 +21,7 @@ This is the best for me in MBP.
   * [视频剪辑](#视频剪辑)
   * [输入法](#输入法)
 * [思维导图](#思维导图)
+* [定制化](#定制化)
   
 
 ## 开发者工具
@@ -144,3 +145,7 @@ This is the best for me in MBP.
 * [process](https://www.processon.com/) - 流程图，思维导图等等在线工具。
 * [幕布](https://mubu.com/) - 在线中文创作思维导图。
 * [dynalist](https://dynalist.io/) - 大纲，思维导图工具。
+
+## 定制化
+
+* [动态壁纸](https://dynamicwallpaper.club/) - 免费下载适配 MacOs Mojave+ 的动态壁纸。
