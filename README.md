@@ -54,6 +54,7 @@ This is the best for me in MBP.
 
 * [Chrome](https://www.google.com/intl/zh-CN/chrome/) - 常规使用，插件配置齐全下无敌的浏览器。
 * [Chrome Canary](https://www.google.com/intl/zh-CN/chrome/canary/) - 功能最新，几乎每日更新。个人觉得适合 pc 调试的浏览器。
+* [Edge](https://www.microsoft.com/en-us/edge?form=MY01BV&OCID=MY01BV) - 使用 chrome 内核重写的微软浏览器，比 IE 好太多了，某些体验甚至超过 chrome.
 * [Safari](https://www.apple.com/safari/) - 适合纯网页浏览，文字创作类使用。
 
 
@@ -127,7 +128,7 @@ This is the best for me in MBP.
 
 ### 视频剪辑
 
-* [ ] todo
+* [imovie](https://www.apple.com.cn/imovie/) - macos 自带剪辑软件就很好用，适合初学者。[教程](https://support.apple.com/zh-cn/imovie)
 
 ### 邮箱
 
