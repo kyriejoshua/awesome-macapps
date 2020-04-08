@@ -42,10 +42,10 @@ This is the best for me in MBP.
 * [bat](https://github.com/sharkdp/bat) - 内置了语法高亮和集成 git 的 cat.
 
 
-### git 工具
+### git工具
 
 * [Source tree](https://www.sourcetreeapp.com/) - 功能强大的 git 客户端。
-* [Github desktop](https://desktop.github.com/) - 有关 github 相关的操作。
+* [Github desktop](https://desktop.github.com/) - 适合有关 github 的操作。
 * [app](https://app.astralapp.com/) - 在线版整理已 star 的项目。
 * [ohmystar](https://ohmystarapp.com/) - 整理已 star 的项目。
 
@@ -71,6 +71,7 @@ This is the best for me in MBP.
 ## 文档写作类
 
 * [Quiver](https://happenapps.com/) - 适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。
+  * 目前感受是查看，整理体验较好，但是写作，组织体验欠佳，在寻找一个更好的替代品。
 * [Bear](https://bear.app/) - 简洁美观，支持 markdown, 适合写文章。
 * [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。
 * [Alternote](http://alternoteapp.com/) - 支持 markdown 的印象笔记，早期在 evernote 不支持 md 的时候使用。
@@ -91,7 +92,7 @@ This is the best for me in MBP.
 	* ￥ 25.
 * [Sip](https://sipapp.io/) - 拾色器。工作需要，获取颜色。
 	* $ 10. setapp 内含。
-* [Spectacle](https://www.spectacleapp.com/) - 快捷键分屏工具。
+* [Spectacle](https://www.spectacleapp.com/) - 快捷键分屏工具，纯键盘分屏。
 * [PopClip](https://pilotmoon.com/popclip/) - 鼠标划词复制，粘贴，搜索等，可定义。
 	* $ 12.99.
 * [Tickeys](http://www.yingdev.com/projects/tickeys) - 给打字添加中二的声效。
@@ -104,7 +105,7 @@ This is the best for me in MBP.
 
 * [NTFS for Mac](http://www.ntfsformac.cn/) - mac 访问移动硬盘。功能似乎强大，但只能试用七天。后续需要购买激活使用。
 * [Mounty](https://mounty.app/) - 重要的是免费。不常用，只在电脑需要清理，整理软件和文件的时候，非高频使用的适合免费版。
-* [clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。
+* [Clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。
 	* $ 34.95. setapp 内含。
 * [Setapp](https://setapp.com/) - 订阅一款软件，可免费使用多款软件。
 	* 月付 $ 9.99. 年付 $ 8.99.
@@ -136,7 +137,7 @@ This is the best for me in MBP.
 
 ### 输入法
 
-* [鼠须管](https://rime.im/) - 打字效果非常丝滑，但需要一点时间适应，词库没有搜狗多。
+* [鼠须管](https://rime.im/) - 打字效果非常丝滑，但需要一点时间适应，词库没有搜狗多，会相对缺少一些流行词汇，常用词汇。
 * [搜狗输入法](https://pinyin.sogou.com/mac/) - 中规中矩的输入法。
 
 
