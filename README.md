@@ -14,6 +14,7 @@ This is the best for me in MBP.
 * [实用工具](#实用工具)
 * [Markdown](#Markdown)
 * [文档写作](#文档写作)
+* [深度阅读](#深度阅读)
 * [Mac 管理](#Mac管理)
   * [电源管理](#电源管理)
   * [音乐](#音乐)
@@ -22,7 +23,7 @@ This is the best for me in MBP.
   * [输入法](#输入法)
 * [思维导图](#思维导图)
 * [定制化](#定制化)
-  
+
 
 ## 开发者工具
 
@@ -32,7 +33,7 @@ This is the best for me in MBP.
   * $ 80 USD
 * [VSCode](https://code.visualstudio.com/) - 功能更强大，适用范围更广，调试方便，适合大型项目开发。
 * [iHex](https://apps.apple.com/us/app/ihex-hex-editor/id909566003?mt=12) - 编辑十六进制。
-  
+
 
 ### 命令行工具
 
@@ -68,7 +69,7 @@ This is the best for me in MBP.
 * [Typora](https://www.typora.io/) - 简洁高效，颜值高，书写体验舒适。适合写独立文档，与业务或当前技术无关的文档。
 
 
-## 文档写作类
+## 文档写作
 
 * [Quiver](https://happenapps.com/) - 适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。
   * 目前感受是查看，整理体验较好，但是写作，组织体验欠佳，在寻找一个更好的替代品。
@@ -76,6 +77,12 @@ This is the best for me in MBP.
 * [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。
 * [Alternote](http://alternoteapp.com/) - 支持 markdown 的印象笔记，早期在 evernote 不支持 md 的时候使用。
 	* $ 6.99.
+
+## 深度阅读
+
+* [reeder](https://reederapp.com/) - 简洁美观，新闻类排面第一。$ 9.99
+* [leaf](https://apps.apple.com/us/app/leaf-rss-news-reader/id576338668?mt=12) - 简洁美观，新闻类排面第三。 $ 9.99
+* - [ ] 目前缺少一个全平台通用的 RSS 阅读器。
 
 ## 实用工具
 
