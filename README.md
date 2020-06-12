@@ -29,9 +29,9 @@ This is the best for me in MBP.
 
 ### 编辑器
 
-* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。
+* [VSCode](https://code.visualstudio.com/) - 首推。功能更强大，适用范围更广，调试方便，适合大型项目开发。
+* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目开放。
   * $ 80 USD
-* [VSCode](https://code.visualstudio.com/) - 功能更强大，适用范围更广，调试方便，适合大型项目开发。
 * [iHex](https://apps.apple.com/us/app/ihex-hex-editor/id909566003?mt=12) - 编辑十六进制。
 
 
@@ -144,7 +144,7 @@ This is the best for me in MBP.
 
 ### 输入法
 
-* TODO 目前还没有一款十分满意的输入饭。
+* TODO 目前还没有一款十分满意的输入法。
 * ~~[鼠须管](https://rime.im/) - 打字效果非常丝滑，但需要一点时间适应。不再推荐。2020.06~~
   * 词库没有搜狗多，会相对缺少很多常用词汇，流行词汇。常用词汇也非常需要时间去积累。
   * 配置繁琐，对于大多数人来说，只是想要打字。
