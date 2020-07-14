@@ -30,6 +30,7 @@ This is the best for me in MBP.
 ### 编辑器
 
 * [VSCode](https://code.visualstudio.com/) - 首推。功能更强大，适用范围更广，调试方便，适合大型项目开发。
+  * 喜欢更新的伙伴可以直接用 insiders 版本。
 * [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目开放。
   * $ 80 USD
 * [iHex](https://apps.apple.com/us/app/ihex-hex-editor/id909566003?mt=12) - 编辑十六进制。
@@ -64,19 +65,19 @@ This is the best for me in MBP.
 * [Ticktick](https://ticktick.com/) - 滴答清单，同类应用中用的较为舒适的应用。比较符合个人使用习惯。things, 2do, wunderlist 这些使用因人而异。
 * [提醒事项](https://support.apple.com/zh-cn/HT205890) - 自带的提醒可以做些简单的提醒工作。例如晚上八点提醒我买水果，只要对 siri 说即可。
 
-## Markdown
 
-* [Typora](https://www.typora.io/) - 简洁高效，颜值高，书写体验舒适。适合写独立文档，与业务或当前技术无关的文档。
+## 文档写作&Markdown
 
-
-## 文档写作
-
-* [Quiver](https://happenapps.com/) - 适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。
+* [Typora](https://www.typora.io/) - 简洁高效，颜值高，书写体验极度舒适。适合写独立文档，与业务或当前技术无关的文档。同目录管理功能也已支持。
+* [Obsidian](https://obsidian.md/) - 试用中，Quiver 的当前替代品，体验类似 VSCode，但有拓扑图（关系图）。准备作为主力笔记使用。
+  * 目前结合 github 的私有仓库备份。
+* [Quiver](https://happenapps.com/) - ~~适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。~~
   * 目前感受是查看，整理体验较好，但是写作，组织体验欠佳，在寻找一个更好的替代品。
+  * **2020.07 经历了一次非常严重的数据丢失故障。icloud 手滑删除后，几乎无法恢复。完全不再推荐，该软件也几乎不再维护。**
 * [Bear](https://bear.app/) - 简洁美观，支持 markdown, 适合写文章。
-* [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。
+* [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。但个人觉得并不适合程序员使用。
 * [Alternote](http://alternoteapp.com/) - 支持 markdown 的印象笔记，早期在 evernote 不支持 md 的时候使用。
-	* $ 6.99.
+  * $ 6.99.
 
 ## 深度阅读
 
