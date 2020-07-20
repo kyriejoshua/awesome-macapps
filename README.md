@@ -163,3 +163,5 @@ This is the best for me in MBP.
 ## 定制化
 
 * [动态壁纸](https://dynamicwallpaper.club/) - 免费下载适配 MacOs Mojave+ 的动态壁纸。
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyriejoshua)](https://github.com/anuraghazra/github-readme-stats)
