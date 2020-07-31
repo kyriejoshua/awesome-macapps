@@ -31,7 +31,7 @@ This is the best for me in MBP.
 
 * [VSCode](https://code.visualstudio.com/) - 首推。功能更强大，适用范围更广，调试方便，适合大型项目开发。
   * 喜欢更新的伙伴可以直接用 insiders 版本。
-* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目开放。
+* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目开发。
   * $ 80 USD
 * [iHex](https://apps.apple.com/us/app/ihex-hex-editor/id909566003?mt=12) - 编辑十六进制。
 
