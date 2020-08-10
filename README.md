@@ -138,6 +138,7 @@ This is the best for me in MBP.
 ### 视频剪辑
 
 * [imovie](https://www.apple.com.cn/imovie/) - macos 自带剪辑软件就很好用，适合初学者。[教程](https://support.apple.com/zh-cn/imovie)
+* TODO 需要一款字幕智能添加软件。
 
 ### 邮箱
 
@@ -150,7 +151,7 @@ This is the best for me in MBP.
   * 词库没有搜狗多，会相对缺少很多常用词汇，流行词汇。常用词汇也非常需要时间去积累。
   * 配置繁琐，对于大多数人来说，只是想要打字。
 * ~~[搜狗输入法](https://pinyin.sogou.com/mac/) - 中规中矩的输入法。10.15.5 上崩溃严重，不再推荐。2020.06~~
-* [手心输入法](http://www.xinshuru.com/index.html?p=mac) - 正在用，目前还未发现问题。2020.06
+* [手心输入法](http://www.xinshuru.com/index.html?p=mac) - 正在使用，除了不是很智能以外，目前还未发现什么大问题。2020.06
 
 
 ## 思维导图
