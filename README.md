@@ -142,7 +142,8 @@ This is the best for me in MBP.
 
 ### 邮箱
 
-* [Spark](https://sparkmailapp.com/zh) - 颜值高，收发邮件及操作交互体验好。适合查看，撰写邮件体验目前还不够好。
+* [Spark](https://sparkmailapp.com/zh) - 颜值高，收发邮件及操作的交互体验舒适，涵盖 MacOS 和 ios 平台。适合查看，撰写邮件体验目前还不够好。近期版本耗电略高。
+* [Canary Mail](https://canarymail.io/) - 初步观察不错，待试用体验。
 
 ### 输入法
 
@@ -153,7 +154,7 @@ This is the best for me in MBP.
 * ~~[搜狗输入法](https://pinyin.sogou.com/mac/) - 中规中矩的输入法。10.15.5 上崩溃严重，不再推荐。2020.06~~
 * ~~[手心输入法](http://www.xinshuru.com/index.html?p=mac) - 正在使用，除了不是很智能以外，目前还未发现什么大问题。2020.06~~
   * 不够智能的缺点在写文章时体现的十分明显了，心累。遂换之。
-* 自带输入法 - 速度可以，支持自带表情。暂时不太适应快捷键，在适应中。
+* 自带输入法 - 速度可以，支持自带表情。暂时不太适应快捷键，在适应中。试用三天左右，逐渐习惯快捷键之后，开始真香。
 
 
 ## 思维导图
