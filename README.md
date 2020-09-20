@@ -1,4 +1,7 @@
-# awesome-macapps
+![](https://img.shields.io/github/commit-activity/y/kyriejoshua/awesome-macapps?style=for-the-badge)
+![](https://img.shields.io/github/repo-size/kyriejoshua/awesome-macapps?style=for-the-badge)
+
+# Awesome-macapps
 This is the best for me in MBP.
 
 > 全部自己整理的，极为主观的个人觉得非常实用的工具集合。提醒我为什么使用他们，以及他们给我带来的好处，这些值得让他们收到尊重。
