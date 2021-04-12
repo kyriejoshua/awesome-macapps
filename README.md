@@ -26,6 +26,7 @@ This is the best for me in MBP.
   * [输入法](#输入法)
 * [思维导图](#思维导图)
 * [定制化](#定制化)
+* [花里胡哨](#花里胡哨)
 
 
 ## 开发者工具
@@ -34,7 +35,7 @@ This is the best for me in MBP.
 
 * [VSCode](https://code.visualstudio.com/) - 首推。功能更强大，适用范围更广，调试方便，适合大型项目开发。
   * 喜欢更新的伙伴可以直接用 insiders 版本。
-* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目开发。
+* [Sublime text](https://www.sublimetext.com/) - 个人用的最舒适的编辑器，胜在流畅，响应迅速，全键盘操作。建议使用 dev 版，更新频率高。但仅适合小项目或个人开发。正式版更新较慢，dev 版本收费。
   * $ 80 USD
 * [iHex](https://apps.apple.com/us/app/ihex-hex-editor/id909566003?mt=12) - 编辑十六进制。
 
@@ -50,7 +51,7 @@ This is the best for me in MBP.
 ### git工具
 
 * [Source tree](https://www.sourcetreeapp.com/) - 功能强大的 git 客户端。
-* [Github desktop](https://desktop.github.com/) - 适合有关 github 的操作。
+* [Github desktop](https://desktop.github.com/) - 适合有关 github 的操作，比较简约，基本操作齐全。
 * [app](https://app.astralapp.com/) - 在线版整理已 star 的项目。
 * [ohmystar](https://ohmystarapp.com/) - 整理已 star 的项目。
 
@@ -72,12 +73,12 @@ This is the best for me in MBP.
 ## 文档写作&Markdown
 
 * [Typora](https://www.typora.io/) - 简洁高效，颜值高，书写体验极度舒适。适合写独立文档，与业务或当前技术无关的文档。同目录管理功能也已支持。
-* [Obsidian](https://obsidian.md/) - 试用中，Quiver 的当前替代品，体验类似 VSCode，但有拓扑图（关系图）。准备作为主力笔记使用。
+* [Obsidian](https://obsidian.md/) - 主力技术笔记工具，Quiver 替代品，体验类似 VSCode，但有拓扑图（关系图）。卡片笔记的践行者。
   * 目前结合 github 的私有仓库备份。
-* [Quiver](https://happenapps.com/) - ~~适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。~~
-  * 目前感受是查看，整理体验较好，但是写作，组织体验欠佳，在寻找一个更好的替代品。
-  * **2020.07 经历了一次非常严重的数据丢失故障。icloud 手滑删除后，几乎无法恢复。完全不再推荐，该软件也几乎不再维护。**
+* [Notion](https://www.notion.so/) - 项目级别的笔记管理工具，可以当做 GTD 工具，项目管理，笔记梳理，攻略收集等等。功能过于强大，还在摸索中，目前就是 markdown 的支持不太友好。
 * [Bear](https://bear.app/) - 简洁美观，支持 markdown, 适合写文章。
+* [Quiver](https://happenapps.com/) - ~~适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。~~
+  * **2020.07 经历了一次非常严重的数据丢失故障。icloud 手滑删除后，几乎无法恢复。完全不再推荐，该软件也几乎不再维护。**
 * [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。但个人觉得并不适合程序员使用。
 * [Alternote](http://alternoteapp.com/) - 支持 markdown 的印象笔记，早期在 evernote 不支持 md 的时候使用。
   * $ 6.99.
@@ -95,8 +96,8 @@ This is the best for me in MBP.
 	* $ 15. setapp 内含。
 * [CheatSheet](https://mediaatelier.com/CheatSheet/) - 快捷查看所有快捷键。
 * [Dash](https://kapeli.com/dash) - 开发者文档查阅，功能强大，但价格略贵。
-	* $29.99.
-* [iStat Menus](https://bjango.com/mac/istatmenus/) - 状态栏展示系统状态，cpu, 内存，速率，电源，airpods 电源等等。单独购买不含天气，这个不太友好。
+	* $29.99. setapp 内含。
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - 状态栏展示系统状态，cpu, 内存，速率，电源，airpods 电源等等。功能比较强大，建议参照官网配置，效果更加美观。
 	* $ 11.99. setapp 内含。
 * [Just Focus](http://getjustfocus.com/) - 高效集中注意力。类似番茄钟。
 * [Manico](https://manico.im/) - 纯键盘快速切换常用应用。对于键盘党非常实用。
@@ -106,7 +107,7 @@ This is the best for me in MBP.
 * [Spectacle](https://www.spectacleapp.com/) - 快捷键分屏工具，纯键盘分屏。
 * [PopClip](https://pilotmoon.com/popclip/) - 鼠标划词复制，粘贴，搜索等，可定义。
 	* $ 12.99.
-* [Tickeys](http://www.yingdev.com/projects/tickeys) - 给打字添加中二的声效。
+* [Paste](https://pasteapp.io/) - 剪切板管理工具，熟悉之后会很方便。
 * [slides](https://slides.com/) - 在线写简约 ppt.
 * [OmniPlan](https://www.omnigroup.com/omniplan) - 强大的项目管理工具，做甘特图非常方便，唯二不便是需要一定学习成本和很多钱。
 	* $ 199.99
@@ -116,9 +117,9 @@ This is the best for me in MBP.
 
 * [NTFS for Mac](http://www.ntfsformac.cn/) - mac 访问移动硬盘。功能似乎强大，但只能试用七天。后续需要购买激活使用。
 * [Mounty](https://mounty.app/) - 重要的是免费。不常用，只在电脑需要清理，整理软件和文件的时候，非高频使用的适合免费版。
-* [Clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。
+* [Clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。使用的时候再下载，不用的时候建议卸载，菜单栏工具有些鸡肋。
 	* $ 34.95. setapp 内含。
-* [Setapp](https://setapp.com/) - 订阅一款软件，可免费使用多款软件。
+* [Setapp](https://setapp.com/) - 订阅一款软件，可免费使用多款软件。适合多人拼团购买。
 	* 月付 $ 9.99. 年付 $ 8.99.
 
 ### 电源管理
@@ -134,7 +135,7 @@ This is the best for me in MBP.
 ### 视频播放
 
 * [IINA](https://iina.io/) - 简洁使用的播放器。
-* [sPlayer](http://www.splayer.org/zh-Hans/)  - 常用播放器。
+* [sPlayer](http://www.splayer.org/zh-Hans/)  - 常用播放器，稍微有点臃肿。
 * [quicktime](https://support.apple.com/zh-cn/quicktime) - 自带软件，有录屏功能。
 
 
@@ -169,5 +170,10 @@ This is the best for me in MBP.
 ## 定制化
 
 * [动态壁纸](https://dynamicwallpaper.club/) - 免费下载适配 MacOs Mojave+ 的动态壁纸。
+
+## 花里胡哨
+
+* [Tickeys](http://www.yingdev.com/projects/tickeys) - 给打字添加中二的声效。
+* [Runcat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) - 随 cpu 越跑越快，消遣卖萌减压工具。
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyriejoshua&repo=awesome-macapps)](https://github.com/kyriejoshua/awesome-macapps)
