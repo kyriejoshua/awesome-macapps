@@ -146,7 +146,8 @@ This is the best for me in MBP.
 
 ### 邮箱
 
-* [Spark](https://sparkmailapp.com/zh) - 颜值高，收发邮件及操作的交互体验舒适，涵盖 MacOS 和 ios 平台。适合查看，撰写邮件体验目前还不够好。近期版本耗电略高。
+* [Spark](https://sparkmailapp.com/zh) - 颜值高，收发邮件及操作的交互体验舒适，涵盖 MacOS 和 ios 平台。适合查看，撰写邮件体验目前还不够好。近期版本耗电略高。长期使用下来感觉渐渐厚重，新增部分国内的邮件不方便。
+* [Edison Mail](https://mail.edison.tech/mac) - 较为简约的邮箱客户端，涵盖 MacOS 和 ios 平台。适合查看，目前试用中。
 * [Canary Mail](https://canarymail.io/) - 初步观察不错，待试用体验。
 
 ### 输入法
