@@ -132,6 +132,7 @@ This is the best for me in MBP.
 
 * [Boom 3D](https://www.globaldelight.com/boom/boom-ppc.php?utm_source=google&utm_medium=cpc&utm_campaign=Worldwide-Brand&gclid=Cj0KCQjwoqDtBRD-ARIsAL4pviDq9I17iRf4SVplEL4NX3JRCnBcOx5PYC_jSwefh9xH53zh4oM7CeQaAihmEALw_wcB) - 耳机音效增强，效果明显。
   * setapp 内免费。单独购买 $ 12.01.
+* [LyricsX](https://github.com/ddddxxx/LyricsX) - 在桌面和菜单栏显示歌词，适配 Apple Music, 网易云等.
 
 ### 视频播放
 
