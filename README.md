@@ -75,11 +75,14 @@ This is the best for me in MBP.
 
 * [Typora](https://www.typora.io/) - 简洁高效，颜值高，书写体验极度舒适。适合写独立文档，与业务或当前技术无关的文档。同目录管理功能也已支持。
 * [Obsidian](https://obsidian.md/) - 主力技术笔记工具，Quiver 替代品，体验类似 VSCode，但有拓扑图（关系图）。卡片笔记的践行者。
+  * 适合学术类笔记，创作类文章集合。
+  * 文章达到数十篇，插件达十多个后，略微卡顿。v12.19
   * 目前结合 github 的私有仓库备份。
+* [语雀](https://www.yuque.com/) - 公司级别的文档管理工具。适合存放及管理工作文档，内部集成了部分项目管理工具，逐渐有 notion 化的趋势，也变得越来越易用。
 * [Notion](https://www.notion.so/) - 项目级别的笔记管理工具，可以当做 GTD 工具，项目管理，笔记梳理，攻略收集等等。功能过于强大，还在摸索中，目前就是 markdown 的支持不太友好。
 * [Bear](https://bear.app/) - 简洁美观，支持 markdown, 适合写文章。
 * [Quiver](https://happenapps.com/) - ~~适合程序员使用的文档。使用起来很顺手，多种格式，支持 md, latex，可以方便地整理查阅。~~
-  * **2020.07 经历了一次非常严重的数据丢失故障。icloud 手滑删除后，几乎无法恢复。完全不再推荐，该软件也几乎不再维护。**
+  * **2020.07 经历了一次非常严重的数据丢失故障。icloud 手滑删除，几乎无法恢复。完全不再推荐，该软件也几乎不再维护。**
 * [Evernote](https://evernote.com/intl/zh-cn) - 功能强大，老牌笔记应用。但个人觉得并不适合程序员使用。
 * [Alternote](http://alternoteapp.com/) - 支持 markdown 的印象笔记，早期在 evernote 不支持 md 的时候使用。
   * $ 6.99.
@@ -119,7 +122,7 @@ This is the best for me in MBP.
 * [NTFS for Mac](http://www.ntfsformac.cn/) - mac 访问移动硬盘。功能似乎强大，但只能试用七天。后续需要购买激活使用。
 * [Mounty](https://mounty.app/) - 重要的是免费。不常用，只在电脑需要清理，整理软件和文件的时候，非高频使用的适合免费版。
 * [Clean my mac](https://cleanmymac.com/zh) - 垃圾清理软件。使用的时候再下载，不用的时候建议卸载，菜单栏工具有些鸡肋。
-	* $ 34.95. setapp 内含。
+* $ 34.95. setapp 内含。
 * [Setapp](https://setapp.com/) - 订阅一款软件，可免费使用多款软件。适合多人拼团购买。
 	* 月付 $ 9.99. 年付 $ 8.99.
 
