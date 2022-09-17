@@ -182,4 +182,6 @@ This is the best for me in MBP.
 * [Tickeys](http://www.yingdev.com/projects/tickeys) - 给打字添加中二的声效。
 * [Runcat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) - 随 cpu 越跑越快，消遣卖萌减压工具。
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyriejoshua&repo=awesome-macapps)](https://github.com/kyriejoshua/awesome-macapps)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kyriejoshua/awesome-macapps&type=Date)](https://star-history.com/#kyriejoshua/awesome-macapps&Date)
