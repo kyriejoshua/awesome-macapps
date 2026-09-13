@@ -115,6 +115,7 @@ This is the best for me in MBP.
 * [slides](https://slides.com/) - 在线写简约 ppt.
 * [OmniPlan](https://www.omnigroup.com/omniplan) - 强大的项目管理工具，做甘特图非常方便，唯二不便是需要一定学习成本和很多钱。
 	* $ 199.99
+* [Orkas](https://orkas.ai/?source=gh_kyrie) - 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 
 
 ## Mac管理
