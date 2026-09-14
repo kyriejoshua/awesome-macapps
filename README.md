@@ -147,6 +147,7 @@ This is the best for me in MBP.
 ### 视频剪辑
 
 * [imovie](https://www.apple.com.cn/imovie/) - macos 自带剪辑软件就很好用，适合初学者。[教程](https://support.apple.com/zh-cn/imovie)
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT 开源、本地优先的 CLI 与 MCP 视频工具包，让编程 Agent 通过可编辑的 plan.json 时间线编排和剪辑视频。
 * TODO 需要一款字幕智能添加软件。
 
 ### 邮箱
