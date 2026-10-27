@@ -109,6 +109,8 @@ This is the best for me in MBP.
 * [Sip](https://sipapp.io/) - 拾色器。工作需要，获取颜色。
 	* $ 10. setapp 内含。
 * [Spectacle](https://www.spectacleapp.com/) - 快捷键分屏工具，纯键盘分屏。
+* [Command Reopen](https://commandreopen.com/) - 让原生 Cmd+Tab 自动恢复被最小化/关闭的窗口；零辅助功能权限。
+	* $9.99 买断（2 天试用）。MIT 开源 [GitHub](https://github.com/Feng6611/mac-command-reopen)。
 * [PopClip](https://pilotmoon.com/popclip/) - 鼠标划词复制，粘贴，搜索等，可定义。
 	* $ 12.99.
 * [Paste](https://pasteapp.io/) - 剪切板管理工具，熟悉之后会很方便。
